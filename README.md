@@ -13,3 +13,10 @@ a Raytracing program on GPU
 驱动请装最新版
 
 玩的愉快！
+
+
+
+！！！
+如果会报任何错
+请试试把core.h复制到你的IDE的include文件夹内
+！！！
