@@ -18,5 +18,5 @@ a Raytracing program on GPU
 
 ！！！
 如果会报任何错
-请试试把core.h复制到你的IDE的include文件夹内
+请试试把core.h复制到你的IDE的include文件夹内并改名为"core"(不带".h")并修改cu里的#include
 ！！！
